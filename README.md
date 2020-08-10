@@ -41,6 +41,7 @@ i.e. Fridays and start of festivities in October. So by increasing police size a
 3. pip install ipywidgets
 4. pip install folium
 
+# Visualizations
 ![casesLines](./visuals/lowestCategoryCrimeDepartment.png)
 ![casesLines](./visuals/Monthy_high.png)
 ![casesLines](./visuals/higest_crime_category.png)

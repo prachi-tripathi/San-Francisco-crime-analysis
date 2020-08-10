@@ -1,7 +1,9 @@
 # San-Francisco-crime-analysis
 
-# Dataset- San Francisco registered committed offences of crime record data of the year 2016 
-    The dataset can be downloaded from- https://bit.ly/2EfvRaG
+ The dataset can be downloaded from- https://bit.ly/2EfvRaG
+
+# Dataset- San Francisco registered committed offences of crime record data of the year 2016
+
 1.  The Data Description is as follows -
 2.  incident_id - A number assigned to each incident reported.
 3.  category - Category of the incident reported

@@ -29,4 +29,4 @@ The dataset can be downloaded from - https://bit.ly/2EfvRaG
 ![casesLines](./visuals/weekdays_less.png)
 ![casesLines](./visuals/department_wise.PNG)
 ![casesLines](./visuals/pie.png)
-![casesLines](./visuals/pie.png)
+![casesLines](./visuals/geo1.png)
